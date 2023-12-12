@@ -1,0 +1,16 @@
+{
+  "name": "proyecto-chat",
+  "version": "1.0.0",
+  "description": "Se creara un chat en tiempo real\r pobando solo apsa saber\r seguno\r test numero 9999",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
